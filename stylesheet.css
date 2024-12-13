@@ -1,0 +1,123 @@
+body {
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color:aquamarine;
+  color:#fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  padding: 20px 25px;
+}
+
+.copy-container h1 {
+  font-size: 45px;
+}
+
+.copy-container h2 {
+  font-size: 35px;
+  border-bottom: 2px solid #333;
+}
+
+.copy-container h3 {
+  font-size: 20px;
+  color:red;
+}
+
+.copy-container img {
+  float: right;
+  height: 140px;
+  width: 110px;
+  padding-right: 40px;
+}
+
+.contents {
+  height: 450px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid red;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.object-list {
+  font-size: 20px;
+}
+
+.object-list span {
+  color: red;
+}
+
+.contact-form {
+  height: 500px;
+  padding-top: 400px;
+  padding-bottom: 100px;
+  margin-top: 100px;
+}
+
+.contact-form span {
+  color: red;
+}
+
+.contact-form  p {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.contact-form input {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.contact-form textarea {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.footer {
+  background-color: #2f5176;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
